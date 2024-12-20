@@ -55,25 +55,25 @@ This readme contains:
 
 Below are the locations connected to GB via the named interconnector: NB: where there are NaN values in these columns, it means the interconnector was commissioned after the start of the data.
 
-***____ifa***: France ("Interconnexion France-Angleterre")
+    ***ifa***: France ("Interconnexion France-Angleterre")
 
-***____ifa2***: France
+    ***ifa2***: France
 
-***____britned***: Netherlands
+    ***britned***: Netherlands
 
-***____moyle***: Norther Ireland
+    ***moyle***: Norther Ireland
 
-***____east_west***: Ireland
+    ***east_west***: Ireland
 
-***____nemo***: Belgium
+    ***nemo***: Belgium
 
-***____nsl***: Norway ("North Sea Link"), commissioned in 2021
+    ***nsl***: Norway ("North Sea Link"), commissioned in 2021
 
-***____eleclink***: France, commissioned in 2021
+    ***eleclink***: France, commissioned in 2021
 
-***____viking***: Denmark, commissioned in 2024
+    ***viking***: Denmark, commissioned in 2024
 
-***scottish_transfer*** an interconnector able to send power quickly between Scotland and England. Since both Scotland and England are included in the nd and tsd data, I am not considering this an international interconnector. Commissioned in 2024.
+    ***scottish_transfer*** an interconnector able to send power quickly between Scotland and England. Since both Scotland and England are included in the nd and tsd data, I am not considering this an international interconnector. Commissioned in 2024.
 
 
 ## Resources: 
