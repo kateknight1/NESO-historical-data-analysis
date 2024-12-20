@@ -80,24 +80,24 @@ Below are the locations connected to GB via the named interconnector: NB: where 
 
 ### Main data source
 
-**from kaggle, as included here**: https://www.kaggle.com/datasets/albertovidalrod/electricity-consumption-uk-20092022/data
+from kaggle, as included here: https://www.kaggle.com/datasets/albertovidalrod/electricity-consumption-uk-20092022/data
 
-**in its native origin, uncombined with the 2024 file updated daily**: https://www.neso.energy/data-portal/historic-demand-data
+in its native origin, uncombined with the 2024 file updated daily: https://www.neso.energy/data-portal/historic-demand-data
 
 ### Additional Sources
 
-**list of dates when clocks change**: https://www.metalsmine.com/calendar/400-uk-daylight-saving-time-shift
+list of dates when clocks change: https://www.metalsmine.com/calendar/400-uk-daylight-saving-time-shift
 
-**population estimates**: https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/populationestimatesforukenglandandwalesscotlandandnorthernireland (Mid 2011-Mid 2022)
+population estimates: https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/populationestimatesforukenglandandwalesscotlandandnorthernireland (Mid 2011-Mid 2022)
 
-**GeoJSON map of Europe**: https://github.com/leakyMirror/map-of-europe/tree/master
+GeoJSON map of Europe: https://github.com/leakyMirror/map-of-europe/tree/master
 
-**GeoJSON maps to separate UK countries**:
+GeoJSON maps to separate UK countries:
 
-***England***: https://cartographyvectors.com/map/1321-england-uk
+*England*: https://cartographyvectors.com/map/1321-england-uk
 
-***Wales***: https://cartographyvectors.com/map/1320-wales-uk
+*Wales*: https://cartographyvectors.com/map/1320-wales-uk
 
-***Scotland***: https://cartographyvectors.com/map/1322-scotland-uk
+*Scotland*: https://cartographyvectors.com/map/1322-scotland-uk
 
-***Northern Ireland***: https://cartographyvectors.com/map/1319-northern-ireland
+*Northern Ireland*: https://cartographyvectors.com/map/1319-northern-ireland
